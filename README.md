@@ -1,4 +1,4 @@
-# botcatcher-fail2ban
+# BotCatcher.NET: Fail2Ban
 
 This is a part of BotCatcher.NET project,
 
